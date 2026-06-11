@@ -9,8 +9,6 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "Just a bunch of rambling about almost anything."
-  dark = "auto"
-  highlight = true
 
 [minify]
   minifyOutput = true
