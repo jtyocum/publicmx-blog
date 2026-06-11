@@ -1,7 +1,7 @@
 baseURL = "https://publicmx.com"
 languageCode = "en-us"
 title = "Mostly Rambling"
-theme = "etch"
+theme = "PaperMod"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
