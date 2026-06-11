@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Mostly Rambling"
 theme = "PaperMod"
 enableInlineShortcodes = true
-pygmentsCodeFences = true
-pygmentsUseClasses = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
