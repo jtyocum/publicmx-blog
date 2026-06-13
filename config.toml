@@ -14,15 +14,20 @@ disableKinds = ["taxonomy", "term"]
 [menu]
 
   [[menu.main]]
-    identifier = "posts"
-    title = "posts"
-    name = "posts"
-    url = "/"
-    weight = 10
+    name = "Archive"
+    url = "archives"
+    weight = 2
+  [[menu.main]]
+    name = "Search"
+    url = "search"
+    weight = 2
 
 [permalinks]
-  posts = "/:contentbasename/"
+  posts = "/posts/:contentbasename/"
   
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
   unsafe = true
+
+[outputs]
+  home = ['html', 'rss', 'json']
