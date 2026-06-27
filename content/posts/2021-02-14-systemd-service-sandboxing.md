@@ -7,7 +7,7 @@ SystemD is loved by some, hated by others. It offers a wide range of features, b
 
 Below, is an example of a sandbox configuration for Apache on Ubuntu 18.04. You'll notice several entries under SystemCallFilter. If you are running a newer distro, check your systemd man pages. It may offer more system call groups, making this configuration a bit simpler.
 
-```
+```ini
 [Service]
 CapabilityBoundingSet=~CAP_SYS_ADMIN
 ProtectSystem=strict

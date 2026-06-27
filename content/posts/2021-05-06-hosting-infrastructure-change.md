@@ -16,4 +16,3 @@ On the VM side of things, I'm running:
 * Shiny Server (been meaning to play with this for some time)
 
 As for VM specs, nothing fancy. Just 2 vCPU, 4GB RAM, and 80GB disk.
-

@@ -1,7 +1,6 @@
 ---
 title: "Moved to a New Host"
 date: 2025-05-25T15:01:55-07:00
-draft: false
 ---
 
 Until recently, I have been hosting my blog and other services on ColoCrossing. Unfortunately, their VPS service has [been hacked](https://lowendtalk.com/discussion/205968/colocrossing-database-breach). They are claiming that services were taken offline to prevent further issues, however, others have posted screenshots from the hackers indicating they may have deleted some customer data.

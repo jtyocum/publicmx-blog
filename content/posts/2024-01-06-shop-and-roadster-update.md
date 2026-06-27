@@ -1,11 +1,6 @@
 ---
 title: Shop and Roadster Update
-description: ""
 date: 2024-01-06T17:00:09.148Z
-preview: ""
-draft: false
-tags: []
-categories: []
 ---
 
 The shop is coming along. Installed heat some weeks back, just a simple 18K BTU diesel fuel heater. It's not perfect, but it does take the chill off. More recently, setup an old computer to make it easier to look up documentation, part specs, etc. I had been using my laptop on occassion, but didn't want to get a greasy finger prints on it.

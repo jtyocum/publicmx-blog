@@ -1,7 +1,6 @@
 ---
 title: "Ubuntu 26.04 on Dell Inspiron 14 Plus 7441 (Snapdragon)"
 date: 2026-06-13T08:01:24-07:00
-draft: false
 ---
 
 Ubuntu on Snapdragon X devices has been a long way coming. Getting it working on my Dell Inspiron 14 Plys (7441), was a fairly easy task. Thanks to improvements like **Stubble**, Secure Boot works as well. Here are the basics on getting Ubuntu 26.04 installed. Be sure to read through the whole guide before proceeding.

@@ -1,7 +1,6 @@
 ---
 title: "Using Claude Code With Local Models"
 date: 2026-02-02T20:14:31-08:00
-draft: false
 ---
 
 While [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) is designed to be used with [Anthropic's](https://www.anthropic.com/) service. You can in fact use it with third-party services, and even local models. To get started using it with a local model, you'll need a few things (I'm assuming you're using a Linux systems):
@@ -17,7 +16,7 @@ Personally, I like to use Docker to containerize my models. Using a container, y
 <!-- markdownlint-disable-file MD031 -->
 <!-- markdownlint-disable-file MD032 -->
 1. Create a directory to store your Docker compose file, LiteLLM config, etc.
-```bash
+```shell
 mkdir local-claude-code
 ```
 2. Create the LiteLLM config, call it `litellm_config.yaml`
